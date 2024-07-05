@@ -3,6 +3,20 @@
 This project is a login and registration page for a shopping application built using Vue.js and Element UI.
 
 ## Demo
+<!-- Image 1 -->
+<p align="center">
+  <img src="https://github.com/xiaosihuangsi/login-registration-front-end/blob/main/src/assets/images/createPage.jpeg" width="1200" />
+  <br />
+  <em>Create Account</em>
+</p>
+
+<!-- Image 2 -->
+<p align="center">
+  <img src="https://github.com/xiaosihuangsi/login-registration-front-end/blob/main/src/assets/images/loginPage.jpeg" width="1200" />
+  <br />
+  <em>Login Account</em>
+</p>
+
 
 
 ## Technologies Used
