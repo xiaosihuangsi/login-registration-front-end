@@ -17,6 +17,13 @@ This project is a login and registration page for a shopping application built u
   <em>Login Account</em>
 </p>
 
+<!-- Image 3 -->
+<p align="center">
+  <img src="https://github.com/xiaosihuangsi/login-registration-front-end/blob/main/src/assets/images/login.gif" width="1200" />
+  <br />
+  <em>Short demo</em>
+</p>
+
 
 
 ## Technologies Used
